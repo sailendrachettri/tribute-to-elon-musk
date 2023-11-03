@@ -1,0 +1,11 @@
+@media only screen and (max-width: 900px) {
+
+	#sectionTwo img{
+		width: 50%;
+		height: 50%;
+	}
+
+ 	#sectionfour, #sectionTwo p{
+  	width: 70%;
+  }
+}
